@@ -7,10 +7,10 @@ This Project demonstrates a comprehensive data warehousing and analytics solutio
 
 ## Project Requirements
 
-## Building the Dta Warehouse (Data Engineering)
+## Building the Data Warehouse (Data Engineering)
 
 #### Objective
-Develop a modern data warehouse using SQL Server yo consolidate sales data, enabling analytival reporting adn informed decision making.
+Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision making.
 
 #### Specifications
 
